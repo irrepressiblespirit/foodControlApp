@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234681875691",
+    "project_id": "foodcontrolapp",
+    "storage_bucket": "foodcontrolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234681875691:android:281d79e3c83e67355612ae",
+        "android_client_info": {
+          "package_name": "com.skibnev.foodcontrolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234681875691-ms4jm7fo0kt7e8g1134d852i6ilgj9n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzhqimXFL_q8pm73LzHVB3rEeVMky1-MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234681875691-ms4jm7fo0kt7e8g1134d852i6ilgj9n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

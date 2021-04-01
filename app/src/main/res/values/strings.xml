@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FoodControlApp</string>
+    <string-array name="genderNames">
+        <item>мужчина</item>
+        <item>женщина</item>
+    </string-array>
+    <string-array name="physicalActivities">
+        <item>минимальная</item>
+        <item>слабая</item>
+        <item>умеренная</item>
+        <item>тяжелая</item>
+        <item>максимальная</item>
+    </string-array>
+    <string name="food_calories">Питание</string>
+    <string name="calc_daily_calories">Калькулятор суточной нормы</string>
+    <string name="daily_human_norm">const.daily.human.calory.norm</string>
+</resources>

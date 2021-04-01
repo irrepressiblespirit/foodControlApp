@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+<item
+    android:id="@+id/food_calories"
+    android:orderInCategory="100"
+    android:title="@string/food_calories"
+    android:onClick="onFoodCaloriesMenuClick"
+    app:showAsAction="never"/>
+    <item
+        android:id="@+id/calc_daily_calories"
+        android:orderInCategory="100"
+        android:title="@string/calc_daily_calories"
+        android:onClick="onCalcDailyCaloriesMenuClick"
+        app:showAsAction="never"/>
+</menu>
